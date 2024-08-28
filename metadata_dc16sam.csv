@@ -1,0 +1,17 @@
+,PCR,Plot,BarcodeSeq,R1,R2,Origin,Crop,CropCode,Depth,ph,P,K,Ca,Mg,CEC,plotBiomass,libDepth,Summary
+Deepcore_033,Plate_2,R1,GTTGGACGAA,Deepcore_033_R1.fastq,Deepcore_033_R2.fastq,Soil,Switchgrass,G05,10,6.7,30,78,839,123,5.42,5.517,79230,G05R1S10-10
+Deepcore_041,Plate_2,R1,TGCTACAGAC,Deepcore_041_R1.fastq,Deepcore_041_R2.fastq,Soil,Switchgrass,G05,10,6.7,30,78,839,123,5.42,5.517,96741,G05R1S20-10
+Deepcore_049,Plate_2,R1,TCTACGGCAC,Deepcore_049_R1.fastq,Deepcore_049_R2.fastq,Soil,Switchgrass,G05,10,6.7,30,78,839,123,5.42,5.517,110033,G05R1S30-10
+Deepcore_057,Plate_2,R2,TGCAGTCCTC,Deepcore_057_R1.fastq,Deepcore_057_R2.fastq,Soil,Switchgrass,G05,10,6.3,18,65,809,118,5.195,4.946,78806,G05R2S10-10
+Deepcore_065,Plate_2,R2,TAGACACCGT,Deepcore_065_R1.fastq,Deepcore_065_R2.fastq,Soil,Switchgrass,G05,10,6.3,18,65,809,118,5.195,4.946,76975,G05R2S20-10
+Deepcore_073,Plate_2,R2,AACCAGCAGA,Deepcore_073_R1.fastq,Deepcore_073_R2.fastq,Soil,Switchgrass,G05,10,6.3,18,65,809,118,5.195,4.946,80101,G05R2S30-10
+Deepcore_081,Plate_2,R3,TTACCGACGA,Deepcore_081_R1.fastq,Deepcore_081_R2.fastq,Soil,Switchgrass,G05,10,6.7,17,86,1033,151,6.644,6.789,81447,G05R3S10-10
+Deepcore_089,Plate_2,R3,ATCACCAGGT,Deepcore_089_R1.fastq,Deepcore_089_R2.fastq,Soil,Switchgrass,G05,10,6.7,17,86,1033,151,6.644,6.789,76702,G05R3S20-10
+Deepcore_096,Plate_2,R3,ACCGGAGTAG,Deepcore_096_R1.fastq,Deepcore_096_R2.fastq,Soil,Switchgrass,G05,10,6.7,17,86,1033,151,6.644,6.789,75379,G05R3S30-10
+Deepcore_104,Plate_2,R4,AGCGACGAAG,Deepcore_104_R1.fastq,Deepcore_104_R2.fastq,Soil,Switchgrass,G05,10,6.5,27,130,836,154,5.797,4.411,79435,G05R4S10-10
+Deepcore_112,Plate_2,R4,TACAGTTACG,Deepcore_112_R1.fastq,Deepcore_112_R2.fastq,Soil,Switchgrass,G05,10,6.5,27,130,836,154,5.797,4.411,75328,G05R4S20-10
+Deepcore_120,Plate_2,R4,CGTAGAGCTC,Deepcore_120_R1.fastq,Deepcore_120_R2.fastq,Soil,Switchgrass,G05,10,6.5,27,130,836,154,5.797,4.411,53491,G05R4S30-10
+Deepcore_128,Plate_2,R5,AGCAATCGGT,Deepcore_128_R1.fastq,Deepcore_128_R2.fastq,Soil,Switchgrass,G05,10,6.5,19,146,551,110,4.046,5.37,74271,G05R5S10-10
+Deepcore_136,Plate_2,R5,CGAGGTTCTG,Deepcore_136_R1.fastq,Deepcore_136_R2.fastq,Soil,Switchgrass,G05,10,6.5,19,146,551,110,4.046,5.37,67345,G05R5S20-10
+Deepcore_144,Plate_2,R5,CTTGTCTGGA,Deepcore_144_R1.fastq,Deepcore_144_R2.fastq,Soil,Switchgrass,G05,10,6.5,19,146,551,110,4.046,5.37,81416,G05R5S30-10
+Deepcore_002,Plate_2,Control,ACCGCATCAA,Deepcore_002_R1.fastq,Deepcore_002_R2.fastq,Control,Control,Control,Control,Control,Control,Control,Control,Control,Control,297,,Cntr_1P2
