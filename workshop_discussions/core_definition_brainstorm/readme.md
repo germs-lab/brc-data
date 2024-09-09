@@ -16,4 +16,7 @@ Ideas from Group Brainstorm
 * Being part of the core  may not be meaningful or beneficial
 * Indirect beneficial will be difficult to measure with "core" approaches
 * Overlaying 'culturing' on the sequencing
+* How can we integrate functional data?
+* What resolution should core be defined
+* DiscoMicrobe - if you define core taxa, it can design a synthetic community - if we get a core microbiome we want to test, this will help with  next steps
   
