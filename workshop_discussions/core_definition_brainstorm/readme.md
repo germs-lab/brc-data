@@ -15,4 +15,5 @@ Ideas from Group Brainstorm
 * Do we care "universal"?
 * Being part of the core  may not be meaningful or beneficial
 * Indirect beneficial will be difficult to measure with "core" approaches
+* Overlaying 'culturing' on the sequencing
   
